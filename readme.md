@@ -16,7 +16,7 @@ Attention-based Recurrent Neural Network](https://arxiv.org/pdf/1711.06149.pdf)"
 
 
 ## Flow Chart
-![Flowchart](Flowchart.png)
+![Flowchart](Flowchart.PNG)
 
 
 ### Some Helpful links to Learn about LSTM & Recurrent Neural Networks
