@@ -1,4 +1,4 @@
-## A Tensorflow Implementation of
+## A Tensorflow Implementation of Application of Brain Computer Interfacing for Identification
 
 what the code does:
 
@@ -11,5 +11,6 @@ what the code does:
 7. Train and evaluate an XGBoost classifier on the preprocessed data.
 
 This is an attempt to code the program in latest versions of tensorflow and keras
-The Implementation is based on the paper, "MindID: Person Identification from Brain Waves through
-Attention-based Recurrent Neural Network"
+The Implementation is based on the paper, "[MindID: Person Identification from Brain Waves through
+Attention-based Recurrent Neural Network](https://arxiv.org/pdf/1711.06149.pdf)"
+Link :- 
