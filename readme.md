@@ -14,3 +14,9 @@ This is an attempt to code the program in latest versions of tensorflow and kera
 The Implementation is based on the paper, "[MindID: Person Identification from Brain Waves through
 Attention-based Recurrent Neural Network](https://arxiv.org/pdf/1711.06149.pdf)"
 Link :- 
+
+
+### Some Helpful links to Learn about LSTM & Recurrent Neural Networks
+
+- [LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [Attention and Augmented Neural Networks](https://distill.pub/2016/augmented-rnns/)
