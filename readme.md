@@ -13,7 +13,10 @@ what the code does:
 This is an attempt to code the program in latest versions of tensorflow and keras
 The Implementation is based on the paper, "[MindID: Person Identification from Brain Waves through
 Attention-based Recurrent Neural Network](https://arxiv.org/pdf/1711.06149.pdf)"
-Link :- 
+
+
+## Flow Chart
+![Flowchart](Flowchart.png)
 
 
 ### Some Helpful links to Learn about LSTM & Recurrent Neural Networks
