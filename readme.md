@@ -1,4 +1,4 @@
-## A Tensorflow Implementation of Application of Brain Computer Interfacing for Identification
+## A Tensorflow Implementation of Person identification from brain waves using Attention-based recurrent neural network
 
 what the code does:
 
@@ -18,6 +18,8 @@ Attention-based Recurrent Neural Network](https://arxiv.org/pdf/1711.06149.pdf)"
 ## Flow Chart
 ![Flowchart](Flowchart.PNG)
 
+### Datasets
+- EID-M.mat, EID-S.mat are two local datasets, encoded in a matlab file
 
 ### Some Helpful links to Learn about LSTM & Recurrent Neural Networks
 
